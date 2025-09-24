@@ -36,6 +36,7 @@ public class Assignment {
 				System.out.println("올바른 번호로 다시 입력해주세요.");
 			}
 		}
+		
 		System.out.println("프로그램 종료");
 		
 	}
